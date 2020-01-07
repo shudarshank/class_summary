@@ -11,4 +11,4 @@ script:
 
 deploy:
   provider: script
-  script: ./dipoly.sh
+  script: bash deploy.sh

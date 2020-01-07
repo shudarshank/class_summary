@@ -11,4 +11,4 @@ script:
 
 deploy:
   provider: script
-  script: docker push $USERNAME/flask-app
+  script: ./dipoly.sh

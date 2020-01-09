@@ -1,1 +1,1 @@
-web: gunicorn hello:app
+web: gunicorn class_summary.wsgi
